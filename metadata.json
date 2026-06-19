@@ -1,0 +1,6 @@
+{
+  "name": "Premium Real Estates",
+  "description": "An elegant, mobile-optimized showcase website for a real estate business featuring high-quality property cards, interactive filters, dynamic lead collection forms, and an agent console to review entries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
